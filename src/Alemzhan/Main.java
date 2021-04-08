@@ -34,6 +34,7 @@ public class Main {
                 break;
             }else{
                 System.out.println("ERROR!");
+                System.out.println("ada");
             }
         }
     }
